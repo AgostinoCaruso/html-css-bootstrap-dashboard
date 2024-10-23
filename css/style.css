@@ -11,6 +11,6 @@ table .btn{
 } */
 
 
-.ca .row {
+.ca .row, .ca select {
     font-weight: bold;
 }
