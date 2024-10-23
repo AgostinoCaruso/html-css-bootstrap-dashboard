@@ -11,6 +11,9 @@ table .btn{
 } */
 
 
-.ca .row, .ca select {
+.ca .row, .ca select{
     font-weight: bold;
+}
+.ca .checkbox-font{
+    font-weight: normal;
 }
